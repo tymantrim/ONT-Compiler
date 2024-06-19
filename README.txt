@@ -7,7 +7,7 @@ Download the sheet into this folder and rename it to be "ont_form.csv" (make sur
 
 Step 2:
 Double check to make sure everything is in the correct place and has the correct names
-Inside the folder "ONT Compiler" there should be three files
+Inside the folder "ONT-Compiler-main" there should be three files
 1. ont_compiler.py
 2. ont_form.csv
 3. README.txt (this file you're reading rn)
